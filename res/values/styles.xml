@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+    <!-- Activity主题 --> 
+    <style name="customTheme" parent="@android:style/Theme"> 
+        <item name="android:windowIsTranslucent">true</item> 
+    </style> 
+    <style name="BackgroundOnly">       
+        <item name="android:windowNoDisplay">true</item>     
+    </style>
+</resources> 
